@@ -9,3 +9,10 @@ Fiquem a vontade para colaborar.
 
 
 Para instalar a tradução, basta extrair a pasta TEXT dentro de C:\SteamLibrary\steamapps\common\Fallout\DATA\TEXT, ou dar um git clone ali mesmo.
+
+
+
+Arquivos traduzidos completamente  (precisa de revisão)
+
+Game
+	LSGAME.MSG

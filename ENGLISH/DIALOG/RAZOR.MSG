@@ -14,7 +14,7 @@
 {113}{}{Adeus}
 {114}{}{Isso é Adytum. É um campo de trabalho escravo dirigido por um grupo chamado Reguladores, mas eles dizem a todos que é uma "cidade". Eles vêm aqui e levam nossa gente para trabalhár até morrerem. Então eles vêm e levam mais de nós.}
 {115}{}{Você não pode entrar e libertar o seu povo?}
-{116}{}{Então, o que eu estou falando com você? Esses são os caras com quem preciso ligar.}
+{116}{}{Então, o que eu estou falando com você? Esses são os caras com quem preciso falar.}
 {117}{}{Vou descobrir o que posso sobre o Adytum. Adeus.}
 {118}{}{Então, O que o levou a este canto dos resíduos?
 {119}{}{Estou procurando um Water Chip. Você sabe onde eu posso encontrar um?}
@@ -38,7 +38,7 @@
 {137}{}{Os reguladores. Eles são os que realmente dirigem o Adytum. Não Zimmerman. Eles vêm aqui e arrastam nosso povo de volta para Adytum como escravos. Eles nos matam quando tentamos combatê-los. Às vezes, eles apenas vêm e matam alguns de nós para trazer para Zimmerman, então eles podem dizer que tentamos entrar em sua cidade ou alguma outra história ridícula. Aqueles filhos da puta mataram mesmo o filho de Zimmerman!
 {138}{}{filho de Zimmerman? Por que eles queriam matá-lo?}
 {139}{}{Você está dizendo que você nunca fez nada contra o Adytum?}
-{140}{}{Há um ninho da Garra da Morte entre nós e eles. Nós nunca falamos com nenhum dos Gun Runners. Os Reguladores têm o poder de fogo para limpar as Garras da Morte, mas não por algum motivo.}
+{140}{}{Há um ninho da DeathClaw entre nós e eles. Nós nunca falamos com nenhum dos Gun Runners. Os Reguladores têm o poder de fogo para limpar as Garras da Morte, mas não por algum motivo.}
 {141}{}{Onde posso encontrar os Gun Runners localizados?}
 {142}{}{OK. Adeus.}
 {143}{}{Josh morou aqui comigo ... a ... eu ... eu quero dizer, nós. Ele sabia a verdade por trás do que estava acontecendo. Os reguladores disseram-lhe se ele alguma vez tentou entrar em contato com seu pai ou retornar a Adytum para matá-lo.
@@ -56,7 +56,7 @@
 {155}{}{Até mais tarde.}
 {156}{}{Muito bem. Espero que você tome a decisão certa.}
 {157}{}{Adeus.}
-{158}{}{Os Gun Runners estão para o leste e depois para o norte daqui. Mas tenha cuidado - as garras da morte não devem ser tomadas de forma leve. Eu vi uma Garra da Morte rasgar um homem à metade com um golpe.}
+{158}{}{Os Gun Runners estão para o leste e depois para o norte daqui. Mas tenha cuidado - as garras da morte não devem ser tomadas de forma leve. Eu vi uma Deathclaw rasgar um homem à metade com um golpe.}
 {159}{}{Eu vou ver o que posso descobrir.}
 {160}{}{Lamento que você se sinta assim. Eu acho que seria melhor se você partir.}
 161}{}{Bye.}
@@ -81,11 +81,11 @@
 {180}{}{Eles o mataram? O que ele fez?}
 {181}{}{Como está chegando nosso plano?}
 {182}{}{Eu ainda estou tentando fazer tudo funcionar.}
-{183}{}{A ... Wha?}
+{183}{}{O que?}
 {184}{}{Não tenho tanta certeza de que isso ajudaria sem a ameaça de violência para apoiá-la. O que realmente precisamos são algumas armas dos Gun Runners.}
 {185}{}{Bem, onde estão esses Gun Runners? Por que você não tira algumas armas deles?}
 {186}{}{Oh, bem, eu ofereci. Adeus.}
-{187}{}{Eles estão um pouco a leste daqui, mas há um ninho da Garra da Morte entre nós e eles. Nós nunca falamos com nenhum dos Gun Runners. }
+{187}{}{Eles estão um pouco a leste daqui, mas há um ninho da DeathClaw entre nós e eles. Nós nunca falamos com nenhum dos Gun Runners. }
 {188}{}{Ok, me dê o holodisco e irei falar com os Gun Runners antes de me aproximar de Zimmerman.}
 {189}{}{Espero que você possa encontrar uma maneira de nos ajudar. Adeus.}
 {190}{}{O que há de errado?}
@@ -108,7 +108,7 @@
 {207}{}{Vá lá.}
 {208}{}{Eu estou indo para ir falar com Zimmerman dar-lhe este disco holodisco tudo vai estar OK.}
 {209}{}{Você sabe o que? Eu vou te matar.}
-{210}{}{A ... Wha?}
+{210}{}{O... que?}
 {211}{}{Vá em frente. É o seu funeral. Sem essas armas, não temos nada para nos apoiar.}
 {212}{}{Vá embora!}
 {213}{}{Não é bem-vindo aqui.}

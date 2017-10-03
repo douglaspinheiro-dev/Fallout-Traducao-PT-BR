@@ -4,119 +4,119 @@
 #
 # Truly Generic strings (no need for gender/number issues)
 #
-{100}{}{You need %d action points.}
-{101}{}{Out of ammo.}
-{102}{}{Target out of range.}
-{103}{}{Combat cannot end with nearby hostile creatures.}
-{104}{}{Your aim is blocked.}
-{105}{}{You cannot use weapons with both arms crippled.}
-{106}{}{You cannot use two-handed weapons with a crippled arm.}
-{107}{}{You are not strong enough to use this weapon properly.}
-{108}{}{ and }
+{100}{}{Você precisa de %d pontos de ação.}
+{101}{}{Sem munição.}
+{102}{}{Alvo fora do alcance.}
+{103}{}{O combate não pode acabar enquanto existir criaturas hostis próximas.}
+{104}{}{Seu alvo/mira está bloqueado.}
+{105}{}{Você não pode usar armas com ambos os braços paralisados.}
+{106}{}{Você não pode usar armas de duas mãos com um braço aleijado.}
+{107}{}{Você não é forte o suficiente para usar esta arma corretamente.}
+{108}{}{ e }
 #
 # Combat Flag Strings (all of these happen to you, the MALE player)
 #
-{200}{}{knocked out}
-{201}{}{knocked down}
-{202}{}{crippled your left leg}
-{203}{}{crippled your right leg}
-{204}{}{crippled your left arm}
-{205}{}{crippled your right arm}
-{206}{}{blinded}
-{207}{}{were killed}
+{200}{}{nocauteado}
+{201}{}{derrubado}
+{202}{}{aleijou sua perna esquerda}
+{203}{}{aleijou sua perna direita}
+{204}{}{aleijou seu braço esquerdo}
+{205}{}{aleijou seu braço direito}
+{206}{}{cego}
+{207}{}{foram mortos}
 {208}{}{hit}
-{209}{}{critical}
-{210}{}{on fire}
-{211}{}{had your armor bypassed}
-{212}{}{your weapon exploded}
-{213}{}{your weapon destroyed}
-{214}{}{your weapon dropped}
-{215}{}{lost your next turn}
-{216}{}{hit yourself}
-{217}{}{lost the rest of your ammo}
-{218}{}{fired a dud shot}
-{219}{}{hurt yourself}
-{220}{}{hit randomly}
-{221}{}{crippled a random limb}
-{222}{}{peppered with fragments}
+{209}{}{crítico}
+{210}{}{em chamas}
+{211}{}{teve sua armadura ignorada}
+{212}{}{sua arma explodiu}
+{213}{}{sua arma foi destruída}
+{214}{}{sua arma caiu}
+{215}{}{perdeu seu próximo turno}
+{216}{}{se acertou}
+{217}{}{perdeu o resto da sua munição}
+{218}{}{disparou um tiro fraco}
+{219}{}{feriu-se}
+{220}{}{golpe aleatório}
+{221}{}{aleijou um membro aleatório}
+{222}{}{feriu-se com fragmentos}
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{250}{}{knocked out}
-{251}{}{knocked down}
-{252}{}{crippled your left leg}
-{253}{}{crippled your right leg}
-{254}{}{crippled your left arm}
-{255}{}{crippled your right arm}
-{256}{}{blinded}
-{257}{}{were killed}
+{250}{}{nocauteada}
+{251}{}{derrubada}
+{252}{}{aleijou sua perna esquerda}
+{253}{}{aleijou sua perna direita}
+{254}{}{aleijou seu braço esquerdo}
+{255}{}{aleijou seu braço direito}
+{256}{}{cega}
+{257}{}{foram mortos}
 {258}{}{hit}
-{259}{}{critical}
-{260}{}{on fire}
-{261}{}{had your armor bypassed}
-{262}{}{your weapon exploded}
-{263}{}{your weapon destroyed}
-{264}{}{your weapon dropped}
-{265}{}{lost your next turn}
-{266}{}{hit yourself}
-{267}{}{lost the rest of your ammo}
-{268}{}{fired a dud shot}
-{269}{}{hurt yourself}
-{270}{}{hit randomly}
-{271}{}{crippled a random limb}
-{272}{}{peppered with fragments}
+{259}{}{crítico}
+{260}{}{em chamas}
+{261}{}{teve sua armadura ignorada}
+{262}{}{sua arma explodiu}
+{263}{}{sua arma foi destruída}
+{264}{}{sua arma caiu}
+{265}{}{perdeu seu próximo turno}
+{266}{}{se acertou}
+{267}{}{perdeu o resto da sua munição}
+{268}{}{disparou um tiro fraco}
+{269}{}{feriu-se}
+{270}{}{golpe aleatório}
+{271}{}{aleijou um membro aleatório}
+{272}{}{feriu-se com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a male)
 #
-{300}{}{knocked out}
-{301}{}{knocked down}
-{302}{}{crippled his left leg}
-{303}{}{crippled his right leg}
-{304}{}{crippled his left arm}
-{305}{}{crippled his right arm}
-{306}{}{blinded}
-{307}{}{was killed}
+{300}{}{nocauteado}
+{301}{}{derrubado}
+{302}{}{aleijou sua perna esquerda}
+{303}{}{aleijou sua perna direita}
+{304}{}{aleijou seu braço esquerdo}
+{305}{}{aleijou seu braço direito}
+{306}{}{cego}
+{307}{}{foram mortos}
 {308}{}{hit}
-{309}{}{critical}
-{310}{}{on fire}
-{311}{}{had his armor bypassed}
-{312}{}{his weapon exploded}
-{313}{}{his weapon destroyed}
-{314}{}{his weapon dropped}
-{315}{}{lost his next turn}
-{316}{}{hit himself}
-{317}{}{lost the rest of his ammo}
-{318}{}{fired a dud shot}
-{319}{}{hurt himself}
-{320}{}{hit randomly}
-{321}{}{crippled a random limb}
-{322}{}{peppered with fragments}
+{309}{}{crítico}
+{310}{}{em chamas}
+{311}{}{teve sua armadura ignorada}
+{312}{}{sua arma explodiu}
+{313}{}{sua arma foi destruída}
+{314}{}{sua arma caiu}
+{315}{}{perdeu seu próximo turno}
+{316}{}{se acertou}
+{317}{}{perdeu o resto da sua munição}
+{318}{}{disparou um tiro fraco}
+{319}{}{feriu-se}
+{320}{}{golpe aleatório}
+{321}{}{aleijou um membro aleatório}
+{322}{}{feriu-se com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a female)
 #
-{400}{}{knocked out}
-{401}{}{knocked down}
-{402}{}{crippled her left leg}
-{403}{}{crippled her right leg}
-{404}{}{crippled her left arm}
-{405}{}{crippled her right arm}
-{406}{}{blinded}
-{407}{}{was killed}
+{400}{}{nocauteada}
+{401}{}{derrubada}
+{402}{}{aleijou sua perna esquerda}
+{403}{}{aleijou sua perna direita}
+{404}{}{aleijou seu braço esquerdo}
+{405}{}{aleijou seu braço direito}
+{406}{}{cega}
+{407}{}{foram mortos}
 {408}{}{hit}
-{409}{}{critical}
-{410}{}{on fire}
-{411}{}{had her armor bypassed}
-{412}{}{her weapon exploded}
-{413}{}{her weapon destroyed}
-{414}{}{her weapon dropped}
-{415}{}{lost her next turn}
-{416}{}{hit herself}
-{417}{}{lost the rest of her ammo}
-{418}{}{fired a dud shot}
-{419}{}{hurt herself}
-{420}{}{hit randomly}
-{421}{}{crippled a random limb}
-{422}{}{peppered with fragments}
+{409}{}{crítico}
+{410}{}{em chamas}
+{411}{}{teve sua armadura ignorada}
+{412}{}{sua arma explodiu}
+{413}{}{sua arma foi destruída}
+{414}{}{sua arma caiu}
+{415}{}{perdeu seu próximo turno}
+{416}{}{se acertou}
+{417}{}{perdeu o resto da sua munição}
+{418}{}{disparou um tiro fraco}
+{419}{}{feriu-se}
+{420}{}{golpe aleatório}
+{421}{}{aleijou um membro aleatório}
+{422}{}{feriu-se com fragmentos}
 #
 # Miscellaneous combat messages (all of these happen to you, the male player)
 # Note: the first %s will be replaced by the value of line 506, which
@@ -127,24 +127,24 @@
 #          will be a string from the section Hit Locations starting
 #          in the 1000's in this file, with the exception of line 509
 #          where the second %s is the name of another creature
-{506}{}{You}
-{509}{}{Oops! %s were hit instead of %s!}
-{511}{}{%s were critically hit in %s for %d hit points}
-{512}{}{%s were hit in %s for %d hit points}
-{513}{}{%s were hit for %d hit points}
-{514}{}{%s critically missed}
-{515}{}{%s missed}
-{520}{}{%s were critically hit for %d hit points}
-{521}{}{%s were critically hit in %s for 1 hit point}
-{522}{}{%s were hit in %s for 1 hit point}
-{523}{}{%s were hit for 1 hit point}
-{524}{}{%s were critically hit for 1 hit point}
-{525}{}{%s were critically hit in %s for no damage}
-{526}{}{%s were hit in %s for no damage}
-{527}{}{%s were hit for no damage}
-{528}{}{%s were critically hit for no damage}
-{533}{}{%s critically missed and took 1 hit point}
-{534}{}{%s critically missed and took %d hit points}
+{506} {} {Você}
+{509} {} {Oops! %s foram atingidos em vez de%s!}
+{511} {} {%s foram criticamente atingidos em%s para% d pontos de vida}
+{512} {} {%s foram atingidos em%s para% d pontos de vida}
+{513} {} {%s foram atingidos por% d pontos de vida}
+{514} {} {%s gravemente perdeu}
+{515} {} {%s perderam}
+{520} {} {%s foram criticamente atingidos por% de pontos de vida}
+{521} {} {%s foram criticamente atingidos em%s para 1 ponto de acesso}
+{522} {} {%s foram atingidos em%s para 1 ponto de acesso}
+{523} {} {%s foram atingidos por 1 ponto de acesso}
+{524} {} {%s foram criticamente atingidos por 1 ponto de acesso}
+{525} {} {%s foram criticamente atingidos em%s sem danos}
+{526} {} {%s foram atingidos em%s sem danos}
+{527} {} {%s foram atingidos sem danos}
+{528} {} {%s foram criticamente atingidos por nenhum dano}
+{533} {} {%s perdeu e levou 1 ponto de acerto}
+{534} {} {%s perdeu e levou% d pontos de vida}
 #
 # Miscellaneous combat messages (all of these happen to you, the female player)
 # Note: the first %s will be replaced by the value of line 556, which

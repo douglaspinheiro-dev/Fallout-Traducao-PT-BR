@@ -8,50 +8,50 @@
 # ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 # System
-{100}{}{LOAD GAME}              # Titles
-{101}{}{PICK A QUICK LOAD SLOT}
-{102}{}{SAVE GAME}
-{103}{}{PICK A QUICK SAVE SLOT}
-{104}{}{DONE}
+{100}{}{CARREGAR jOGO} # Títulos
+{101}{}{ESCOLHA UM ROTA DE CARGA RAPIDA}
+{102}{}{SALVAR JOGO}
+{103}{}{ESCOLHA UMA MANUTENCAO RAPIDA}
+{104}{}{FEITO}
 {105}{}{CANCEL}
-{106}{}{Error loading save game list!} # Line 1
-{107}{}{Save game directory:}    # Line 2
-{108}{}{Doesn't exist or is corrupted.} # Line 3
-{109}{}{SAVE GAME}
-{110}{}{LOAD GAME}
-{111}{}{- EMPTY -}
-{112}{}{- CORRUPT SAVE  FILE -}
-{113}{}{- OLD VERSION -}
-{114}{}{Empty.}
-{115}{}{Error!}
-{116}{}{Old version.}
-{117}{}{JAN}                            # Months
-{118}{}{FEB}
+{106}{}{Erro ao carregar a lista de jogos salvos!} # Linha 1
+{107}{}{Salvar o diretorio do jogo:} # Linha 2
+{108}{}{Nao existe ou esta corrompido.} # Linha 3
+{109}{}{SALVAR JOGO}}
+{110}{}{cARREGAR JOGO}
+{111}{}{- VAZIO -}
+{112}{}{- CORRIGIR ARQUIVO SALVO -}
+{113}{}{- VERSAO ANTIGA -}
+{114}{}{Vazio.}
+{115}{}{Erro!}
+{116}{}{versao antiga.}
+{117}{}{JAN} # Meses
+{118}{}{FEV}
 {119}{}{MAR}
-{120}{}{APR}
-{121}{}{MAY}
+{120}{}{ABR}
+{121}{}{MAI}
 {122}{}{JUN}
 {123}{}{JUL}
-{124}{}{AUG}
-{125}{}{SEP}
-{126}{}{OCT}
+{124}{}{AGO}
+{125}{}{SET}
+{126}{}{OUT}
 {127}{}{NOV}
-{128}{}{DEC}
-{129}{}{Level}
-{130}{}{DESCRIPTION}
-{131}{}{Save game already exists, overwrite?}
-{132}{}{Error saving game!}             # Line 1
-{133}{}{Unable to save game.}           # Line 2
-{134}{}{Error loading game!}            # Line 1
-{135}{}{Unable to load game.}           # Line 2
-{136}{}{Save game file is an older version.}
-{137}{}{Map}
+{128}{}{DEZ}
+{129}{}{Nivel}
+{130}{}{DESCRICAO}
+{131}{}{O jogo que vai salvar ja existe, sobrescrever?}
+{132}{}{Erro ao salvar o jogo!} # Linha 1
+{133}{}{Nao consegui salvar o jogo.} # Linha 2
+{134}{}{Erro ao carregar o jogo!} # Linha 1
+{135}{}{Nao consegui carregar o jogo.} # Linha 2
+{136}{}{O arquivo do jogo Save é uma versao mais antiga.}
+{137}{}{Mapa}
 
-{140}{}{Game Saved.}
-{141}{}{Game Loaded.}
+{140}{}{Jogo Salvo.}
+{141}{}{Jogo Carregado.}
 #
-# Demo versions only
+# Demo versões apenas
 #
-{200}{}{Sorry you can't save or load} # 1
-{201}{}{in the demo version.}         # 2
+{200}{}{Desculpe, nao pode salvar ou carregar} # 1
+{201}{}{na versao demo.} # 2
 
