@@ -8,237 +8,237 @@
 #
 # Material Types
 #
-{100}{}{Glass}
+{100}{}{Vidro}
 {101}{}{Metal}
-{102}{}{Plastic}
-{103}{}{Wood}
-{104}{}{Dirt}
-{105}{}{Stone}
-{106}{}{Cement}
-{107}{}{Leather}
+{102}{}{Plastico}
+{103}{}{Madeira}
+{104}{}{Areia}
+{105}{}{Pedra}
+{106}{}{Cimento}
+{107}{}{Couro}
 
 #
 # Item Types
 #
-{150}{}{Armor}
+{150}{}{Armadura}
 {151}{}{Container}
-{152}{}{Drug}
-{153}{}{Weapon}
-{154}{}{Ammo}
-{155}{}{Misc Item}
-{156}{}{Key}
+{152}{}{Droga}
+{153}{}{Arma}
+{154}{}{Municao}
+{155}{}{Diversos}
+{156}{}{Chave}
 
 #
 # Scenery Types
 #
 {200}{}{Portal}
-{201}{}{Stairs}
-{202}{}{Elevator}
-{203}{}{Ladder Bottom}
-{204}{}{Ladder Top}
-{205}{}{Generic Scenery}
+{201}{}{Escadas}
+{202}{}{Elevador}
+{203}{}{Escada descendo}
+{204}{}{Escada subindo}
+{205}{}{Cenario generico}
 
 #
 # Damage Code Types
 #
-{250}{}{normal_dam}
+{250}{}{normal}
 {251}{}{laser}
-{252}{}{fire}
+{252}{}{fogo}
 {253}{}{plasma}
-{254}{}{electrical}
+{254}{}{eletrico}
 {255}{}{emp}
-{256}{}{explosion}
+{256}{}{explosao}
 
 #
 # Caliber Types for weapons
 #
 {300}{}{None}
-{301}{}{Rocket}
-{302}{}{Flamethrower Fuel}
-{303}{}{C Energy Cell}
-{304}{}{D Energy Cell}
+{301}{}{Foguete}
+{302}{}{Combustivel de lança-chamas}
+{303}{}{Celula de Energia C}
+{304}{}{Celula de Energia D}
 {305}{}{.223}
 {306}{}{5mm}
 {307}{}{.40 cal}
 {308}{}{10mm}
 {309}{}{.44 cal}
 {310}{}{14mm}
-{311}{}{12-gauge}
+{311}{}{12cal}
 {312}{}{9mm}
 {313}{}{BB}
 
 #
 # Race Types
 #
-{350}{}{Caucasian}
-{351}{}{African}
+{350}{}{Caucasiano}
+{351}{}{Africano}
 
 #
 # Body Types
 #
-{400}{}{Biped}
-{401}{}{Quadruped}
-{402}{}{Robotic}
+{400}{}{Bipede}
+{401}{}{Quadrupede}
+{402}{}{Robotico}
 #
 # Kill Types names
 #
-{450}{}{Men}
-{451}{}{Women}
-{452}{}{Children}
-{453}{}{Super Mutants}
+{450}{}{Homens}
+{451}{}{Mulheres}
+{452}{}{Criancas}
+{453}{}{Super Mutantes}
 {454}{}{Ghouls}
 {455}{}{Brahmin}
 {456}{}{Radscorpions}
-{457}{}{Rats}
+{457}{}{Raos}
 {458}{}{Floaters}
-{459}{}{Centaurs}
-{460}{}{Robots}
-{461}{}{Dogs}
+{459}{}{Centauros}
+{460}{}{Robos}
+{461}{}{Cachorros}
 {462}{}{Manti}
 {463}{}{DeathClaws}
 {464}{}{Master}       # Not displayed!
 #
 # Kill type info descriptions
 #
-{465}{}{This line shows the number of male humans you have killed during the course of your adventures.}
-{466}{}{This line shows the number of female humans you have killed during the course of your adventures.}
-{467}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
-{468}{}{The number of Super Mutants you have slain during the course of your adventures.}
-{469}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
-{470}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
-{471}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
-{472}{}{The number of rats you have killed.  Includes all members of the rat family.}
-{473}{}{This is the number of mutant Floaters that you have put to death.}
-{474}{}{Your tally of dead mutant Centaurs.}
-{475}{}{This is the number of robots that you have destroyed or dismantled.}
-{476}{}{The total number of dogs that you have sent to the great kennel in the sky.}
-{477}{}{This line shows the total number of dead Manti, or large mutated mantis-like insects, that you have squashed so far.}
-{478}{}{This line shows that you have slain the Deathclaw, and any of his spawn.}
-{479}{}{Not Displayed.  Error!}
+{465}{}{Esta linha mostra o numero de humanos do sexo masculino que voce matou durante o curso de suas aventuras.}
+{466}{}{Esta linha mostra o numero de seres humanos que voce matou durante as suas aventuras.}
+{467}{}{Esta linha mostra o numero de crianças humanas jovens que voce matou durante o curso de suas aventuras.}
+{468}{}{O numero de Super Mutantes que voce matou durante o curso de suas aventuras.}
+{469}{}{Esta linha mostra o numero de ghouls masculinos e femininos que voce matou durante o curso de suas aventuras.}
+{470}{}{Esta linha mostra o numero de Brahmin (vacas mutadas) que voce cortou durante suas viagens.}
+{471}{}{O numero de Radscorpions mutados que voce morreu durante sua aventura.}
+{472}{}{O numero de ratos que voce matou. Inclui todos os membros da familia dos ratos.}
+{473}{}{O numero de flutuadores mutantes que voce morreu.}
+{474}{}{Seu recorde de Centauros mutantes mortos.}
+{475}{}{O numero de robos que voce destruiu ou desmantelou.}
+{476}{}{O numero total de cachorros que voce enviou para o grande canil no ceu.}
+{477}{}{Esta linha mostra o numero total de Manti morto, ou grandes insetos tipo mantis mutados, que voce esbarrou ate agora.}
+{478}{}{Esta linha mostra que voce matou o Deathclaw, e qualquer um dos seus filhos.}
+{479}{}{Nao exibido. Erro!}
 
 #
 # Use text
 #
-{480}{}{You see: %s.}
+{480}{}{Voce ve: %s.}
 
 #
 # Use Container text
 #
-{485}{}{You search the %s.}
-{486}{}{You close the %s.}
-{487}{}{It is locked.} # new
+{485}{}{Voce achou o %s.}
+{486}{}{Voce fechou o %s.}
+{487}{}{Esta trancado.} # new
 
 #
 # Look text
 #
-{490}{}{You see: %s.}
-{491}{}{You see a dead: %s.}
-{492}{}{You see the remains of: %s.}
-{493}{}{You see nothing out of the ordinary.}
+{490}{}{Voce ve : %s.}
+{491}{}{Voce ve um morto: %s.}
+{492}{}{Voce ve os restos de: %s.}
+{493}{}{Voce ve nada fora do comum.}
 
 #
 # Examine text
 #
-{500}{}{Dead}
-{501}{}{Almost Dead}
-{502}{}{Severely Wounded}
-{503}{}{Wounded}
-{504}{}{Unhurt}
+{500}{}{Morto}
+{501}{}{Quase morto}
+{502}{}{Severamente ferido}
+{503}{}{Ferido}
+{504}{}{Ileso}
 
 #
 # Examine text messages
 #
-{518}{}{You look: %s }
+{518}{}{Voce ve: %s }
 {519}{}{%s %s }
-{520}{}{You look: %s.}
+{520}{}{Voce ve: %s.}
 {521}{}{%s %s.}
-{522}{}{He looks: %s.}
-{523}{}{She looks: %s.}
-{524}{}{It looks: %s.}
+{522}{}{Ele ve: %s.}
+{523}{}{Ela ves: %s.}
+{524}{}{Isto ve: %s.}
 # (note: hps are short for hit-points)
-{525}{}{%s has %d/%d hps.}
+{525}{}{%s tem %d/%d hps.}
 # (note: this is for guns that have ammo)
-{526}{}{It has %d/%d shots of %s.}
-{530}{}{and has crippled limbs.}  # These append to lines 500-504
-{531}{}{but has crippled limbs.}
-{532}{}{and have crippled limbs.}
-{533}{}{but have crippled limbs.}
-# (note: hps are short for hit-points)
-{535}{}{He has %d/%d hps}
-{536}{}{She has %d/%d hps}
-{537}{}{It has %d/%d hps}
-{540}{}{It weighs %d pounds.}
-{541}{}{It weighs %d pound.}
+{526}{}{Isto tem %d/%d tiros of %s.}
+{530}{}{e tem membros paralisados.}  # These append to lines 500-504
+{531}{}{mas tem membros paralisados.}
+{532}{}{e tem membros paralisados.}
+{533}{}{mas ten membros paralisados.}
+# (note: hps sao curtos para hit-points)
+{535}{}{Ele tem %d/%d hps}
+{536}{}{Ela tem %d/%d hps}
+{537}{}{Isto tem %d/%d hps}
+{540}{}{Isso pesa %d libras.}
+{541}{}{Isso pesa %d libras.}
 {544}{}{, }
 {545}{}{.}
-{546}{}{ and is wielding a %s.}
-{547}{}{ and is wielding a %s with %d/%d shots of %s.}
+{546}{}{ e esta empunhando um %s.}
+{547}{}{ e esta empunhando um %s com %d/%d tiros de %s.}
 
 #
 # Examine text error messages
 #
-{550}{}{\nError: lookup_val out of range!}
-{551}{}{\nError: obj_examine: proto_ptr failed!}
+{550}{}{\nError: lookup_val fora de alcancee!}
+{551}{}{\nError: obj_examine: proto_ptr falhou!}
 
 #
 # Use text messages
 #
-{580}{}{You use the %s.}
-{581}{}{You use the %s on %s.}
-{582}{}{That does nothing.}
-{583}{}{To your dismay, you realize that it is already dead.}
-{584}{}{As you reach down, you realize that it is already dead.}
-{585}{}{Alas, you are too late.} # This is relating to a critter being dead.
-{586}{}{That won't work on the dead.}
-{587}{}{You light the flare.}
-{588}{}{The flare is already lit.}
-{589}{}{You set the timer.}
-{590}{}{The timer is already ticking!}
+{580}{}{Voce usa o %s.}
+{581}{}{Voce usa o %s em %s.}
+{582}{}{Isso nao faz nada.}
+{583}{}{Para sua consternacao, voce percebe que ja esta morto.}
+{584}{}{À medida que voce alcança, voce percebe que ja esta morto.}
+{585}{}{Infelizmente, voce chegou tarde.} # Isto esta relacionado a um bicho morto.
+{586}{}{Isso nao funcionara nos mortos.}
+{587}{}{Voce acende a chama.}
+{588}{}{O alargamento ja esta aceso.}
+{589}{}{Voce configurou o temporizador.}
+{590}{}{O temporizador ja esta marcando!}
 
 #
 # Experience-Point messages
 #
-{620}{}{You gain %d experience points for killing: %s.}
-{621}{}{%s you earn %d exp. points.}
-{622}{}{For defeating your enemies, }  # 622-626 prepend to line 621
-{623}{}{For slaying your opponents, }
-{624}{}{You are victorious in combat, }
-{625}{}{For crushing your enemies, }
-{626}{}{For destroying your enemies without taking a scratch, }
+{620}{}{Voce ganha %d pontos de experiencia para matar:  %s.}
+{621}{}{ %s voce ganha %d exp. pontos.}
+{622}{}{Para derrotar seus inimigos,} # 622-626, avance para a linha 621
+{623}{}{Por matar seus oponentes,}
+{624}{}{Voce foi vitorioso em combate,}
+{625}{}{Para esmagar seus inimigos,}
+{626}{}{Por destruir seus inimigos sem tomar um arranhao,}
 
 #
 # Dialog messages
 #
-{650}{}{[Done]}
-{651}{}{[More]}
-{652}{}{More}
-{653}{}{[Back]}
-{654}{}{Back}     # changed number from 653
-{655}{}{Go on}    # new
-{656}{}{Err...}   # new
-{660}{}{You can't see there.}
-{661}{}{Too far away.}
+{650}{}{[Feito]}
+{651}{}{[Mais]}
+{652}{}{Mais}
+{653}{}{[Voltar]}
+{654}{}{Voltar} # numero alterado de 653
+{655}{}{Ir em} # novo
+{656}{}{Err ...} # new
+{660}{}{Voce nao pode ver la.}
+{661}{}{Muito longe.}
 
 #
 # Not Enough AP message
 #
-{700}{}{You don't have enough action points.}
+{700}{}{Voce nao tem pontos de acao suficientes.}
 #
 # Book messages
 #
-{800}{}{You read the book.}
-{801}{}{You learn nothing new.}
-{802}{}{You learn new science information.}
-{803}{}{You learn a lot about repairing broken electronics.}
-{804}{}{You learn new ways to heal injury.}
-{805}{}{You learn how to handle your guns better.}
-{806}{}{You learn a lot about wilderness survival.}
+{800}{}{Voce le o livro.}
+{801}{}{Voce nao aprende nada novo.}
+{802}{}{Voce aprende novas informacoes cientificas.}
+{803}{}{Voce aprende muito sobre reparar eletronicos quebrados.}
+{804}{}{Voce aprende novas maneiras de curar lesoes.}
+{805}{}{Voce aprende como lidar com suas armas melhor.}
+{806}{}{Voce aprende muito sobre a sobrevivencia da regiao selvagem.}
 #
 # Use on messages (and some extra stuff that Jesse needed)
 #
-{900}{}{The supplies in the Doctor's Bag run out.}
-{901}{}{The supplies in the First Aid Kit run out.}
-{902}{}{You cannot do that in combat.}
-{903}{}{This person will not barter with you.}
-{904}{}{This person has nothing to tell you about.}
-{905}{}{You cannot pick up that item. You are at your maximum weight capacity.}
+{900}{}{Os suprimentos no bolso do medico estao esgotados.}
+{901}{}{Os suprimentos no Kit de Primeiros Socorros sao esgotados.}
+{902}{}{Voce nao pode fazer isso em combate.}
+{903}{}{Esta pessoa nao trocaria com voce.}
+{904}{}{Esta pessoa nao tem nada para contar sobre voce.}
+{905}{}{Voce nao pode pegar esse item. Voce esta em sua capacidade maxima de peso.}

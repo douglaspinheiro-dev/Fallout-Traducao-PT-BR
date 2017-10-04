@@ -87,9 +87,9 @@
 #	  descriptions are just the map name itself (this also helps
 #	  pinpoint unfinished ones when you go through here).
 #
-{100}{}{Desert}										 // DESERT1.MAP
-{101}{}{Desert}										 // DESERT2.MAP
-{102}{}{Desert}										 // DESERT3.MAP
+{100}{}{Deserto}										 // DESERT1.MAP
+{101}{}{Deserto}										 // DESERT2.MAP
+{102}{}{Deserto}										 // DESERT3.MAP
 {103}{}{Necropolis}                           // HALLDED.MAP
 {104}{}{Necropolis}                           // HOTEL.MAP
 {105}{}{Necropolis}                           // WATRSHD.MAP
@@ -104,24 +104,24 @@
 {114}{}{Brotherhood}                          // BROHD12.MAP
 {115}{}{Brotherhood}                          // BROHD34.MAP
 {116}{}{Shady Sands}                          // CAVES.MAP
-{117}{}{Cathedral}                            // CHILDRN1.MAP
-{118}{}{Cathedral}                            // CHILDRN2.MAP
-{119}{}{City Ruins}									 // CITY1.MAP
-{120}{}{Coast} 										 // COAST1.MAP
-{121}{}{Coast} 										 // COAST2.MAP
-{122}{}{Desert}										 // COLATRUK.MAP
-{123}{}{Desert}										 // FSAUSER.MAP
+{117}{}{Catedral}                            // CHILDRN1.MAP
+{118}{}{Catedral}                            // CHILDRN2.MAP
+{119}{}{Ruínas da cidade}									 // CITY1.MAP
+{120}{}{Costa} 										 // COAST1.MAP
+{121}{}{Costa} 										 // COAST2.MAP
+{122}{}{Deserto}										 // COLATRUK.MAP
+{123}{}{Deserto}										 // FSAUSER.MAP
 {124}{}{Raiders}                              // RAIDERS.MAP
 {125}{}{Shady Sands}                          // SHADYE.MAP
 {126}{}{Shady Sands}                          // SHADYW.MAP
 {127}{}{Glow}											 // GLOWENT.MAP
 {128}{}{Boneyard}                             // LAADYTUM.MAP
 {129}{}{Boneyard}                             // LAFOLLWR.MAP
-{130}{}{Military Base}                        // MBENT.MAP
-{131}{}{Military Base}                        // MBSTRG12.MAP
-{132}{}{Military Base}                        // MBVATS12.MAP
-{133}{}{Military Base}                        // MSTRLR12.MAP
-{134}{}{Military Base}                        // MSTRLR34.MAP
+{130}{}{Base militar}                        // MBENT.MAP
+{131}{}{Base militar}                        // MBSTRG12.MAP
+{132}{}{Base militar}                        // MBVATS12.MAP
+{133}{}{Base militar}                        // MSTRLR12.MAP
+{134}{}{Base militar}                        // MSTRLR34.MAP
 {135}{}{Vault 13}                             // V13ENT.MAP
 {136}{}{Hub}                                  // HUBENT.MAP
 {137}{}{Hub}                                  // DETHCLAW.MAP
@@ -134,24 +134,24 @@
 {144}{}{Boneyard}                             // LABLADES.MAP
 {145}{}{Boneyard}                             // LARIPPER.MAP
 {146}{}{Boneyard}                             // LAGUNRUN.MAP
-{147}{}{Cathedral}                            // CHILDEAD.MAP
-{148}{}{Military}                             // MBDEAD.MAP
-{149}{}{Mountains}									 // MOUNTN1.MAP
-{150}{}{Mountains}									 // MOUNTN2.MAP
-{151}{}{Desert}										 // FOOT.MAP
-{152}{}{Desert}										 // TARDIS.MAP
-{153}{}{Desert}										 // TALKCOW.MAP
-{154}{}{Desert}										 // USEDCAR.MAP
+{147}{}{Catedral}                            // CHILDEAD.MAP
+{148}{}{Base militar}                             // MBDEAD.MAP
+{149}{}{Montanhas}									 // MOUNTN1.MAP
+{150}{}{Montanhas}									 // MOUNTN2.MAP
+{151}{}{Deserto}										 // FOOT.MAP
+{152}{}{Deserto}										 // TARDIS.MAP
+{153}{}{Deserto}										 // TALKCOW.MAP
+{154}{}{Deserto}										 // USEDCAR.MAP
 {155}{}{Brotherhood}                          // BRODEAD.MAP
-{156}{}{Desert}										 // DESCRVN1.MAP
-{157}{}{Desert}										 // DESCRVN2.MAP
-{158}{}{Mountains}									 // MNTCRVN1.MAP
-{159}{}{Mountains}									 // MNTCRVN2.MAP
-{160}{}{Viper Camp}
-{161}{}{Desert}
-{162}{}{Mountains}
-{163}{}{Desert}
-{164}{}{Mountains}
+{156}{}{Deserto}										 // DESCRVN1.MAP
+{157}{}{Deserto}										 // DESCRVN2.MAP
+{158}{}{Montanhas}									 // MNTCRVN1.MAP
+{159}{}{Montanhas}									 // MNTCRVN2.MAP
+{160}{}{Acampamento Viper}
+{161}{}{Deserto}
+{162}{}{Montanhas}
+{163}{}{Deserto}
+{164}{}{Montanhas}
 
 
 #
@@ -159,15 +159,15 @@
 #
 # Format: 3 (max elevations), by city
 #
-# Desert, DESERT1.MAP
+# Deserto, DESERT1.MAP
 {200}{}{}
 {201}{}{}
 {202}{}{}
-# Desert, DESERT2.MAP
+# Deserto, DESERT2.MAP
 {203}{}{}
 {204}{}{}
 {205}{}{}
-# Desert, DESERT3.MAP
+# Deserto, DESERT3.MAP
 {206}{}{}
 {207}{}{}
 {208}{}{}
@@ -227,31 +227,31 @@
 {248}{}{Caves}
 {249}{}{}
 {250}{}{}
-# Cathedral, CHILDRN1.MAP
+# Catedral, CHILDRN1.MAP
 {251}{}{Entrance}
 {252}{}{Tower Level 1}
 {253}{}{}
-# Cathedral Tower, CHILDRN2.MAP
+# Catedral Tower, CHILDRN2.MAP
 {254}{}{Tower Level 2}
 {255}{}{Tower Level 3}
 {256}{}{Tower Level 4}
-# City Ruins, CITY1.MAP
+# Ruínas da cidade, CITY1.MAP
 {257}{}{}
 {258}{}{}
 {259}{}{}
-# Coast, COAST1.MAP
+# Costa, COAST1.MAP
 {260}{}{}
 {261}{}{}
 {262}{}{}
-# Coast, COAST2.MAP
+# Costa, COAST2.MAP
 {263}{}{}
 {264}{}{}
 {265}{}{}
-# Desert, COLATRUK.MAP
+# Deserto, COLATRUK.MAP
 {266}{}{Special}
 {267}{}{}
 {268}{}{}
-# Desert, FSAUSER.MAP
+# Deserto, FSAUSER.MAP
 {269}{}{Special}
 {270}{}{}
 {271}{}{}
@@ -279,15 +279,15 @@
 {287}{}{Library}
 {288}{}{Underground}
 {289}{}{}
-# Military Base Entrance, MBENT.MAP
+# Base militar Entrance, MBENT.MAP
 {290}{}{Entrance}
 {291}{}{}
 {292}{}{}
-# Military Base Stronghold, MBSTRG12.MAP
+# Base militar Stronghold, MBSTRG12.MAP
 {293}{}{Stronghold Level 1}
 {294}{}{Stronghold Level 2}
 {295}{}{}
-# Military Base Vats, MBVATS12.MAP
+# Base militar Vats, MBVATS12.MAP
 {296}{}{Vats Level 1}
 {297}{}{Vats Level 2}
 {298}{}{}
@@ -435,14 +435,14 @@
 {505}{}{Necropolis}
 {506}{}{Hub}
 {507}{}{Brotherhood}
-{508}{}{Military Base}
+{508}{}{Base militar}
 {509}{}{Glow}
 {510}{}{Boneyard}
-{511}{}{Cathedral}
+{511}{}{Catedral}
 
 
 
 #
 # Error Messages
 #
-{1000}{}{Error: Not enough disk space to save map!}
+{1000}{}{Error: Nao tem espaco em disco para salvar o mapa!}

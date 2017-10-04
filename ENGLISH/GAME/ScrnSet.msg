@@ -3,25 +3,25 @@
 #
 #
 #
-{0}{}{Preferências do jogo}
-{1}{}{Configurações da tela}
-{3}{}{Opções}
+{0}{}{Preferencias do jogo}
+{1}{}{Configuracoes da tela}
+{3}{}{Opcoes}
 
-{50}{}{Configurações da tela}
+{50}{}{Configuracoes da tela}
 {51}{}{Personalizado}
 {52}{}{Largura}
 {53}{}{Altura}
-{54}{}{Concluído}
+{54}{}{Concluido}
 {55}{}{Cancelar}
-{56}{}{Fallout deve reiniciar para aplicar as configurações.}
-{57}{}{Você gostaria de reiniciar Fallout agora?}
+{56}{}{Fallout deve reiniciar para aplicar as configuracoes.}
+{57}{}{Voce gostaria de reiniciar Fallout agora?}
 {58}{}{Verdadeiro}
 {59}{}{Falso}
 {60}{}{}
 
 
 {100}{}{Res. Alta}
-{101}{}{RESOLUÇÃO}
+{101}{}{RESOLUCAO}
 {102}{}{Cores}
 {103}{}{8 Bit}
 {104}{}{16 Bit}
@@ -31,14 +31,14 @@
 {108}{}{Windowed}
 {109}{}{Definir a tecla de deslocamento}
 {110}{}{Scaling X2}
-{111}{}{Taxa de atualização}
+{111}{}{Taxa de atualizacao}
 
 {130}{}{Chave da janela}
 {131}{}{Selecionar}
 {132}{}{Nome}
 
-{140}{}{Modo Gráficos:}
-{141}{}{Básico}
+{140}{}{Modo Graficos:}
+{141}{}{Basico}
 {142}{}{Modo Sfall DirectX 9:}
 {143}{}{}
 
@@ -69,7 +69,7 @@
 {204}{}{Fullscreen}
 {205}{}{Janela}
 {206}{}{GPU Blitting}
-{207}{}{Esta configuração não tem efeito enquanto estiver no Modo Gráficos Básicos.}
+{207}{}{Esta configuracao nao tem efeito enquanto estiver no Modo Graficos Basicos.}
 
 {250}{}{Ignorar Limite de deslocamento do PC}
 {253}{}{intervalo de busca de caminho}
@@ -82,30 +82,30 @@
 
 {300}{}{PRESSIONE UMA TECLA ou ESC para cancelar.}
 
-{500}{}{Configurações do Patch do Hi-Res.}
-{501}{}{Configura a resolução da tela, o modo de cor e a taxa de atualização para o modo FullScreen.}
-{502}{}{Configure a saída de cores em tela cheia aqui.}
-{503}{}{Configure a Taxa de atualização de tela cheia aqui. Defina isto como '0' para a configuração padrão do driver.}
+{500}{}{Configuracoes do Patch do Hi-Res.}
+{501}{}{Configura a resolucao da tela, o modo de cor e a taxa de atualizacao para o modo FullScreen.}
+{502}{}{Configure a saida de cores em tela cheia aqui.}
+{503}{}{Configure a Taxa de atualizacao de tela cheia aqui. Defina isto como '0' para a configuracao padrao do driver.}
 {504}{}{Personalizar a largura da tela cheia clicando na caixa do número.}
 {505}{}{Personalizar a altura da tela inteira clicando na caixa do número.}
 {506}{}{Ativar ou desativar o modo de janela.}
-{507}{}{No Modo Janela, esta é a tecla que você mantém pressionada ao usar o mouse para rolar os mapas do Jogo e do Mundo.}
-{508}{}{Pressione o botão vermelho para selecionar uma tecla diferente. Ou clique na caixa do número para editar o código da chave virtual do Windows.}
+{507}{}{No Modo Janela, esta é a tecla que voce mantém pressionada ao usar o mouse para rolar os mapas do Jogo e do Mundo.}
+{508}{}{Pressione o botao vermelho para selecionar uma tecla diferente. Ou clique na caixa do número para editar o código da chave virtual do Windows.}
 {509}{}{O nome da chave atualmente selecionada.}
-{510}{}{Enable X2 scaling. Isso também aumentará a resolução de min para 1280x960. Com o modo Janela exigindo mais espaço para o quadro.}
+{510}{}{Enable X2 scaling. Isso também aumentara a resolucao de min para 1280x960. Com o modo Janela exigindo mais espaço para o quadro.}
 {511}{}{Enable ou Disable Fog Of War. Para obter melhores resultados, este deve ser ativado antes de entrar em um mapa pela primeira vez.}
-{512}{}{Ajuste o nível da luz e o mouse 'olhe a visibilidade dos pisos, paredes e cenários sob o nevoeiro.}
-{513}{}{Os pisos, paredes e cenário sempre estarão visíveis e o mouse "olhar" funcionará normalmente.
-{514}{}{Pisos, paredes e paisagens serão escurecidos e não respondem ao mouse "olhe" até descoberto.}
+{512}{}{Ajuste o nivel da luz e o mouse 'olhe a visibilidade dos pisos, paredes e cenarios sob o nevoeiro.}
+{513}{}{Os pisos, paredes e cenario sempre estarao visiveis e o mouse "olhar" funcionara normalmente.
+{514}{}{Pisos, paredes e paisagens serao escurecidos e nao respondem ao mouse "olhe" até descoberto.}
 {515}{}{Quando ativado, o deslocamento do Character Player é ilimitado. Isso funciona bem se Fog Of War ativado.}
-{516}{}{Aumentar o número de nós de busca para estender a distância de busca do caminho. 20 níveis em incrementos de nó de 2000.}
-{517}{}{nó de pesquisa de 2000 caminhos (valor original). Nota: cada nível requer mais 156,25 KB de memória.}
+{516}{}{Aumentar o número de nós de busca para estender a distância de busca do caminho. 20 niveis em incrementos de nó de 2000.}
+{517}{}{nó de pesquisa de 2000 caminhos (valor original). Nota: cada nivel requer mais 156,25 KB de memória.}
 {518}{}{40 000 nós de busca de caminho. Nota: requer 3200000 bytes (3125 KB) de memória.}
-{519}{}{Ajusta como determinadas telas são exibidas.}
+{519}{}{Ajusta como determinadas telas sao exibidas.}
 {520}{}{Tamanho original.}
-{521}{}{Esticado para ajustar o tamanho da tela enquanto mantém a relação de aspecto original.}
-{522}{}{Esticado para preencher a tela. Nota: Um espaço permanecerá na parte inferior da tela se as legendas estiverem ativadas.}
-{523}{}{Clique abaixo para rodar as opções da barra lateral da interface no jogo.}
-{524}{}{Aplicar quaisquer alterações e sair.}
+{521}{}{Esticado para ajustar o tamanho da tela enquanto mantém a relacao de aspecto original.}
+{522}{}{Esticado para preencher a tela. Nota: Um espaço permanecera na parte inferior da tela se as legendas estiverem ativadas.}
+{523}{}{Clique abaixo para rodar as opcoes da barra lateral da interface no jogo.}
+{524}{}{Aplicar quaisquer alteracoes e sair.}
 {525}{}{Sair sem salvar.}
 
